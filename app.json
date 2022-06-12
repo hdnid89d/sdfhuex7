@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "5c1dd697-a1cb-459d-8669-9c4586cf0cf7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/hdnid89d/sdfhuex7/",
+    "repository": "https://github.com/hdnid89d/sdfhuex7",
+    "stack": "container"
+}
